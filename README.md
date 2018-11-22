@@ -1,4 +1,4 @@
 # python_project
 验证码识别
-scrapy
+spyder（爬虫）
 2048
